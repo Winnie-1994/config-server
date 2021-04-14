@@ -42,6 +42,6 @@ management:
       exposure:
         include: "*"
 
-name: panda
+name: '{cipher}fb3298fdc6462331c9363af2eeac03204f5b20c1afcbd265134dee5e7dbceba7'
 age: 26
-password: '{cipher}fb3298fdc6462331c9363af2eeac03204f5b20c1afcbd265134dee5e7dbceba7'
+password: 123456
